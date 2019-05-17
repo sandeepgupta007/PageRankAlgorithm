@@ -1,5 +1,5 @@
 
-Project description :
+## Project description :
 
 Implemented and worked on Google’s page ranking algorithm and the linear algebra behind it’s ranking algorithm. 
 
